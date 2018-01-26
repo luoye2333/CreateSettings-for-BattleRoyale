@@ -1,0 +1,11 @@
+E:\360data\重要数据\桌面\settings\settings\bin\Debug\settings.exe.config
+E:\360data\重要数据\桌面\settings\settings\bin\Debug\settings.exe
+E:\360data\重要数据\桌面\settings\settings\bin\Debug\settings.pdb
+E:\360data\重要数据\桌面\settings\settings\bin\Debug\settings.xml
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\settings.vbprojResolveAssemblyReference.cache
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\settings.Form1.resources
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\settings.Resources.resources
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\settings.vbproj.GenerateResource.Cache
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\settings.exe
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\settings.xml
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\settings.pdb

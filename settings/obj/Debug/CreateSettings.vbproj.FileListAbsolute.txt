@@ -1,0 +1,10 @@
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\CreateSettings.vbproj.GenerateResource.Cache
+E:\360data\重要数据\桌面\settings\settings\bin\Debug\CreateSettings.exe.config
+E:\360data\重要数据\桌面\settings\settings\bin\Debug\CreateSettings.exe
+E:\360data\重要数据\桌面\settings\settings\bin\Debug\CreateSettings.pdb
+E:\360data\重要数据\桌面\settings\settings\bin\Debug\CreateSettings.xml
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\CreateSettings.Form1.resources
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\CreateSettings.Resources.resources
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\CreateSettings.exe
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\CreateSettings.xml
+E:\360data\重要数据\桌面\settings\settings\obj\Debug\CreateSettings.pdb
